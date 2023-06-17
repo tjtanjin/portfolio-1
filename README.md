@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300px" src="" />
+  <img width="1000px" src="https://github.com/tjtanjin/portfolio-1/blob/master/img/screenshot.jpg" />
   <h1 align="center">Personal Portfolio 1</h1>
 </p>
 
